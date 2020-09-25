@@ -7,7 +7,7 @@
 | # | Alumno                           | Clave única |
 |---|-----------------------------------|-------------|
 | 1 | Angel Rafael Ortega Ramírez | 123972      |
-| 2 | Eduardo         | CU      |
+| 2 | Eduardo Moreno Ortiz         | 151280      |
 | 3 | Yedam         | CU      |
 | 4 | Santiago         | CU      |
 
